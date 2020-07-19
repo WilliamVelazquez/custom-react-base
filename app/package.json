@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/WilliamVelazquez/custom-react-base#readme",
   "dependencies": {
-    "lodash": "4.17.14",
+    "lodash": "4.17.19",
     "react": "16.8.4",
     "react-datepicker": "2.8.0",
     "react-dom": "16.8.4",
